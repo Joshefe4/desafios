@@ -1,0 +1,1 @@
+Exercício simples de lista utilizando o <input> de checkbox para verificar os itens da lista.
